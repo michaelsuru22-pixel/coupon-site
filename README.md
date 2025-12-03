@@ -1,5 +1,5 @@
-# coupon-site
-<!DOCTYPE html>
+# MANUFACTURER COUPON
+<(FOR VENDORS USE ONLY)>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
