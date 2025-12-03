@@ -1,5 +1,5 @@
 # MANUFACTURER COUPON
-<(FOR VENDORS USE ONLY)>
+(FOR VENDORS USE ONLY)
 <html lang="en">
 <head>
 <meta charset="UTF-8">
